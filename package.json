@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "scripts\\start.bat",
-    "serve": "ng serve --port 5030",
+    "serve": "ng serve --port 9083",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
